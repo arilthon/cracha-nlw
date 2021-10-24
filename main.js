@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
   github: 'arilthon',
-  youtube: 'rocketseat',
+  youtube: 'Rocketseat',
   instagram: 'arilthon_lopes',
   facebook: 'arilthon',
   twitter: 'Arylthon'
